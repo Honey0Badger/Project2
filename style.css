@@ -1,0 +1,38 @@
+#a1{
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+#a1 :hover{
+    color: blue;
+}
+#a2{
+    text-decoration: none;
+    color: red;
+}
+.card{
+    margin: 10px;
+}
+.card-header{
+    text-align: center;
+}
+.list-group-item{
+    text-align: center;
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+}
+ul li :hover{
+    color: blue;
+}
+#li1 :hover{
+    color: blue;
+}
+#h6{
+    text-align: center;
+    color: red;
+}
+#p1{
+    text-align: center;
+}
